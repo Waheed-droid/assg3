@@ -2,7 +2,7 @@
 
 Overview
 A comprehensive Java-based hospital management system that handles:
-- Patient and doctor registration
+- Patient and doctor registration 
 - Appointment scheduling
 - Vital signs tracking
 - Emergency alerts
